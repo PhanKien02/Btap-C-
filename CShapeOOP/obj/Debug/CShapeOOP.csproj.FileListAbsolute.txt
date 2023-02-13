@@ -1,0 +1,7 @@
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\bin\Debug\CShapeOOP.exe.config
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\bin\Debug\CShapeOOP.exe
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\bin\Debug\CShapeOOP.pdb
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\obj\Debug\CShapeOOP.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\obj\Debug\CShapeOOP.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\obj\Debug\CShapeOOP.exe
+C:\Users\COMPUTER\source\repos\CShapeOOP\CShapeOOP\obj\Debug\CShapeOOP.pdb
